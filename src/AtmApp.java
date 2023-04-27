@@ -12,5 +12,6 @@ public class AtmApp {
         System.out.println("leyla branch i kodlarını yazdı");
         //lyl1
         //localde degisiklik yaptım
+        //remote da degisiklik yaptım
     }
 }
